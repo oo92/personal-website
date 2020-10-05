@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f86b4cc6-8b19-4e1f-835a-271d480a128e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iRiDxj5nETRSgi7PKkkDmR1InW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/personal-website/dist/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f86b4cc6-8b19-4e1f-835a-271d480a128e" name="Default Changelist" comment="" />
+      <created>1601876691444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601876691444</updated>
+      <workItem from="1601876692941" duration="1616000" />
+      <workItem from="1601881488740" duration="256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1332" y="389" width="216" height="339" key="#File_Watchers" timestamp="1601881733008">
+      <screen x="35" y="27" width="1885" height="1052" />
+    </state>
+    <state x="1332" y="389" width="216" height="339" key="#File_Watchers/35.27.1885.1052@35.27.1885.1052" timestamp="1601881733008" />
+    <state x="948" y="351" width="720" height="458" key="EditFileWatcherDialog" timestamp="1601881654555">
+      <screen x="35" y="27" width="1885" height="1052" />
+    </state>
+    <state x="948" y="351" width="720" height="458" key="EditFileWatcherDialog/35.27.1885.1052@35.27.1885.1052" timestamp="1601881654555" />
+    <state x="910" y="337" width="672" height="678" key="search.everywhere.popup" timestamp="1601881601735">
+      <screen x="35" y="27" width="1885" height="1052" />
+    </state>
+    <state x="910" y="337" width="672" height="678" key="search.everywhere.popup/35.27.1885.1052@35.27.1885.1052" timestamp="1601881601735" />
+  </component>
+</project>
