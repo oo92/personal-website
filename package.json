@@ -1,17 +1,17 @@
 {
-  "name": "personal-website",
+  "name": "modern_portfolio",
   "version": "1.0.0",
-  "description": "Portfolio site",
+  "description": "Responsive portfolio website",
   "main": "index.js",
-  "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.1",
-    "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
-    "node-sass": "^4.14.1"
-  },
-  "devDependencies": {},
+  "homepage": "https://www.ozbek.engineer/",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Onur Ozbek",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^1.2.0",
+    "node-sass": "^4.13.1"
+  }
 }
